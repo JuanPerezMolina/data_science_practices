@@ -10,7 +10,7 @@
 ***
 List of repositories with Data Analysis and Machine Learning projects (Spanish) 
 ### Data Science and Python
-![Image text](data_science_practices\assets\cover_image.jpg)
+![Image text](231026-1_data_science_practices\assets\cover_image.jpg)
 ## Technologies
 ***
 A list of technologies used within these projects:
@@ -22,7 +22,7 @@ A list of technologies used within these projects:
 ***
 A list of projects:
 * Estadisticas:
-  * [estadistica_con_python](https://example.com): Version 12.3 
+  * [estadistica_con_python](https://github.com/JuanPerezMolina/estadistica_con_python): Version 1.1 
 * Data Science:
   * [data_science_primeros_pasos](https://example.com): Version 2.34
 * Data Analysis:
