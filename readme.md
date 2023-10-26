@@ -8,16 +8,16 @@
 6. [FAQs](#faqs)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+List of repositories with Data Analysis and Machine Learning projects (Spanish) 
+### Data Science and Python
+![Image text](..\data_science_practices\assets\cover_image.jpg)
 ## Technologies
 ***
 A list of technologies used within these projects:
-* [Python](https://example.com): Version 12.3 
-* [Google Colab](https://example.com): Version 2.34
-* [Github](https://example.com): Version 1234
-* [Power BI desktop](https://example.com): Version 1234
+* [Python](https://www.python.org/doc/): Ver 3.x
+* [Google Colab](https://colab.google/): Ver x.x
+* [Github](https://docs.github.com/es): Ver x.x
+* [Power BI desktop](https://learn.microsoft.com/en-us/power-bi/): Ver x.x
 ## Projects
 ***
 A list of projects:
