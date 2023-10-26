@@ -10,7 +10,7 @@
 ***
 List of repositories with Data Analysis and Machine Learning projects (Spanish) 
 ### Data Science and Python
-![Image text](..\data_science_practices\assets\cover_image.jpg)
+![Image text](data_science_practices\assets\cover_image.jpg)
 ## Technologies
 ***
 A list of technologies used within these projects:
