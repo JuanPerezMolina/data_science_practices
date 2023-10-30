@@ -26,7 +26,7 @@ A list of projects:
 * Data Science:
   * [data_science_primeros_pasos](https://github.com/JuanPerezMolina/data_science_primeros_pasos): Version 1.1
 * Data Analysis:
-  * [power_bi_mi_primer_dashboard](https://example.com): Version 1234
+  * [tests_estadisticos_python](https://github.com/JuanPerezMolina/tests_estadisticos_python): Version 1.1
 ## Installation
 ***
 A little intro about the installation. 
