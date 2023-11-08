@@ -27,6 +27,7 @@ A list of projects:
 * Data Science:
   * [data_science_primeros_pasos](https://github.com/JuanPerezMolina/data_science_primeros_pasos): Version 1.1
   * [data_science_clustering_extrayendo_patrones_datos](https://github.com/JuanPerezMolina/data_science_clustering_extrayendo_patrones_datos): Version 1.1
+  * [data_science_analisis_series_temporales](https://github.com/JuanPerezMolina/data_science_analisis_series_temporales): Version 1.1
 * Data Analysis:
   * [tests_estadisticos_python](https://github.com/JuanPerezMolina/tests_estadisticos_python): Version 1.1
 ## Installation
