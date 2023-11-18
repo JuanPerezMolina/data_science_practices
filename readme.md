@@ -24,6 +24,7 @@ A list of projects:
 * Estadisticas:
   * [estadistica_con_python](https://github.com/JuanPerezMolina/estadistica_con_python): Version 1.1 
   * [estadistica_con_python_probabilidad_muestreo](https://github.com/JuanPerezMolina/estadistica_con_python_probabilidad_muestreo): Version 1.1 
+  * [tests_estadisticos_python](https://github.com/JuanPerezMolina/tests_estadisticos_python): Version 1.1
   * [estadistica_con_python_test_hipotesis](https://github.com/JuanPerezMolina/estadistica_con_python_test_hipotesis): Version 1.1 
 * Machine Learning:
   * [machine_learning_clasificacion_sklearn](https://github.com/JuanPerezMolina/machine_learning_clasificacion_sklearn): Version 1.1 
@@ -33,8 +34,8 @@ A list of projects:
   * [data_science_primeros_pasos](https://github.com/JuanPerezMolina/data_science_primeros_pasos): Version 1.1
   * [data_science_clustering_extrayendo_patrones_datos](https://github.com/JuanPerezMolina/data_science_clustering_extrayendo_patrones_datos): Version 1.1
   * [data_science_analisis_series_temporales](https://github.com/JuanPerezMolina/data_science_analisis_series_temporales): Version 1.1
-* Data Analysis:
-  * [tests_estadisticos_python](https://github.com/JuanPerezMolina/tests_estadisticos_python): Version 1.1
+
+  
 ## Installation
 ***
 A little intro about the installation. 
