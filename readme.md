@@ -30,6 +30,8 @@ A list of projects:
   * [machine_learning_clasificacion_sklearn](https://github.com/JuanPerezMolina/machine_learning_clasificacion_sklearn): Version 1.1 
   * [machine_learning_regresion_lineal_correlaciones](https://github.com/JuanPerezMolina/machine_learning_regresion_lineal_correlaciones): Version 1.1
   * [machine_learning_clasificacion_prediccion_abandono](https://github.com/JuanPerezMolina/machine_learning_clasificacion_prediccion_abandono): Version 1.1 
+  * [machine_learning_validacion_modelos](https://github.com/JuanPerezMolina/machine_learning_validacion_modelos): Version 1.1 
+  
 * Data Science:
   * [data_science_primeros_pasos](https://github.com/JuanPerezMolina/data_science_primeros_pasos): Version 1.1
   * [data_science_clustering_extrayendo_patrones_datos](https://github.com/JuanPerezMolina/data_science_clustering_extrayendo_patrones_datos): Version 1.1
