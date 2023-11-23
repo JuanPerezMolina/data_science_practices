@@ -34,6 +34,8 @@ A list of projects:
   * [data_science_primeros_pasos](https://github.com/JuanPerezMolina/data_science_primeros_pasos): Version 1.1
   * [data_science_clustering_extrayendo_patrones_datos](https://github.com/JuanPerezMolina/data_science_clustering_extrayendo_patrones_datos): Version 1.1
   * [data_science_analisis_series_temporales](https://github.com/JuanPerezMolina/data_science_analisis_series_temporales): Version 1.1
+ * [clustering_k_means_dbscan_mean_shift](https://github.com/JuanPerezMolina/clustering_k_means_dbscan_mean_shift): Version 1.1
+  
 
   
 ## Installation
