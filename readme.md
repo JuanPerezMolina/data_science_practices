@@ -31,6 +31,9 @@ A list of projects:
   * [machine_learning_regresion_lineal_correlaciones](https://github.com/JuanPerezMolina/machine_learning_regresion_lineal_correlaciones): Version 1.1
   * [machine_learning_clasificacion_prediccion_abandono](https://github.com/JuanPerezMolina/machine_learning_clasificacion_prediccion_abandono): Version 1.1 
   * [machine_learning_validacion_modelos](https://github.com/JuanPerezMolina/machine_learning_validacion_modelos): Version 1.1 
+  * [machine_learning_optimizacion_modelos_hiperparametros](https://github.com/JuanPerezMolina/machine_learning_optimizacion_modelos_hiperparametros): Version 1.1 
+  * [machine-learning-optimizacion-exploracion-aleatoria](https://github.com/JuanPerezMolina/machine-learning-optimizacion-exploracion-aleatoria): Version 1.1 
+  
   
 * Data Science:
   * [data_science_primeros_pasos](https://github.com/JuanPerezMolina/data_science_primeros_pasos): Version 1.1
