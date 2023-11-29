@@ -33,6 +33,7 @@ A list of projects:
   * [machine_learning_validacion_modelos](https://github.com/JuanPerezMolina/machine_learning_validacion_modelos): Version 1.1 
   * [machine_learning_optimizacion_modelos_hiperparametros](https://github.com/JuanPerezMolina/machine_learning_optimizacion_modelos_hiperparametros): Version 1.1 
   * [machine_learning_optimizacion_exploracion_aleatoria](https://github.com/JuanPerezMolina/machine_learning_optimizacion_exploracion_aleatoria): Version 1.1 
+  * [machine_learning_intro_sistemas_recomendacion_python](https://github.com/JuanPerezMolina/machine_learning_intro_sistemas_recomendacion_python): Version 1.1 
   
   
 * Data Science:
